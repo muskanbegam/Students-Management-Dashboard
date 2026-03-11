@@ -1,7 +1,7 @@
 import axios from "axios";
 import type { Student } from "../types/student";
 
-const API_URL = "http://localhost:3000/students";
+const API_URL = "https://students-management-dashboard.onrender.com/students";
 
 export const getStudents = () => axios.get<Student[]>(API_URL).then(res => res.data);
 

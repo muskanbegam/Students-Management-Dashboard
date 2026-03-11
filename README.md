@@ -8,8 +8,8 @@ The application allows users to manage student records with full CRUD functional
 Frontend:  
 https://students-management-dashboard.vercel.app/
 
-Backend API:  
-https://students-management-dashboard.onrender.com
+Backend: 
+https://students-management-dashboard.onrender.com/students
 
 ---
 
